@@ -1,0 +1,13 @@
+SSH:
+
+Uses SSH keys (public/private key pair) for authentication.
+
+Once the key is set up, no need to enter your username/password every time.
+
+Requires a one-time setup of SSH keys and adding the public key to your Git hosting provider (e.g., GitHub/GitLab).
+
+HTTPS:
+
+Uses username and password/token for each operation.
+
+May prompt for credentials frequently, unless cached or using a credential manager.
